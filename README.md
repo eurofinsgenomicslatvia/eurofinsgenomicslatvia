@@ -7,15 +7,17 @@
 ## Eurofins Genomics Latvia IT Solutions
 
 <div>    
-Every day, we analyse and produce DNA for our wide-ranging network of customers that aim to make our world a safer, healthier place. In order to achieve this, we build the best possible teams by hiring, inspiring and challenging the best people around the world.
+Every day, we analyse and produce DNA for our wide-ranging network of customers that aim to make our world a safer, healthier place. In order to achieve this, we build the best possible teams by hiring, inspiring and challenging the best people around the world. <br/>
 
 <br/>
-<b>Setting standards in the world of DNA.</b> <br/>
-We focus on delivering genomics products and services with the highest quality and making a difference in the lives of everyone who is touched by our business.
+
+<b>Setting standards in the world of DNA.</b> 
+
+We focus on delivering genomics products and services with the highest quality and making a difference in the lives of everyone who is touched by our business. 
 
 Our aim is to set benchmarks for the future of genomic services through our expertise and commitment.
 
-<b>Fast</b> <br/>
+<b>Fast</b><br/>
 We produce and analyse DNA & RNA. As an an internationally leading company, we provide of DNA sequencing services, genotyping services, DNA synthesis products and bioinformatics services.
 
 <b>Complete</b> <br/>
