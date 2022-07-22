@@ -4,7 +4,7 @@
   
 <br/>  
 
-## Eurofins Genomics Latvia IT Solutions
+## Eurofins Genomics IT Solutions Latvia
 
 <div>    
 Every day, we analyse and produce DNA for our wide-ranging network of customers that aim to make our world a safer, healthier place. In order to achieve this, we build the best possible teams by hiring, inspiring and challenging the best people around the world. <br/>
